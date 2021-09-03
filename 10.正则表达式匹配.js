@@ -10,8 +10,9 @@
  * @param {string} p
  * @return {boolean}
  */
-var isMatch = function(s, p) {
-
+var isMatch = function (s, p) {
+  let r = new RegExp(`^${p}$`)
+  return r.test(s)
 };
 // @lc code=end
 
