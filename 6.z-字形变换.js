@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=6 lang=javascript
  *
  * [6] Z 字形变换
+ * 
+ * https://leetcode-cn.com/problems/zigzag-conversion/
  */
 
 const { Console } = require("console");

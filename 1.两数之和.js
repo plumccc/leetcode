@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=1 lang=javascript
  *
  * [1] 两数之和
+ * 
+ * https://leetcode-cn.com/problems/two-sum/
  */
 
 // @lc code=start

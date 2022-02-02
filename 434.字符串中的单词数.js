@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=434 lang=javascript
  *
  * [434] 字符串中的单词数
+ * 
+ * https://leetcode-cn.com/problems/number-of-segments-in-a-string/
  */
 
 // @lc code=start

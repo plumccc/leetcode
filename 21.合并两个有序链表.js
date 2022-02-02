@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=21 lang=javascript
  *
  * [21] 合并两个有序链表
+ * 
+ * https://leetcode-cn.com/problems/merge-two-sorted-lists/
  */
 
 // @lc code=start

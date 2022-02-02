@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=25 lang=javascript
  *
  * [25] K 个一组翻转链表
+ * 
+ * https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
  */
 
 // @lc code=start

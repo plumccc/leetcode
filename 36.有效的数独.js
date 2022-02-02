@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=36 lang=javascript
  *
  * [36] 有效的数独
+ * 
+ * https://leetcode-cn.com/problems/valid-sudoku/
  */
 
 // @lc code=start

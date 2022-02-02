@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=22 lang=javascript
  *
  * [22] 括号生成
+ * 
+ * https://leetcode-cn.com/problems/generate-parentheses/
  */
 
 // @lc code=start

@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=30 lang=javascript
  *
  * [30] 串联所有单词的子串
+ * 
+ * https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
  */
 
 // @lc code=start

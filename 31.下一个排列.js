@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=31 lang=javascript
  *
  * [31] 下一个排列
+ * 
+ * https://leetcode-cn.com/problems/next-permutation/
  */
 
 // @lc code=start
