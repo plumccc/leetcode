@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=2 lang=javascript
  *
  * [2] 两数相加
+ * 
+ * https://leetcode-cn.com/problems/add-two-numbers/
  */
 
 const { lib } = require("crypto-js");

@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=27 lang=javascript
  *
  * [27] 移除元素
+ * 
+ * https://leetcode-cn.com/problems/remove-element/
  */
 
 // @lc code=start

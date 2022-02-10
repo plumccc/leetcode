@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=5 lang=javascript
  *
  * [5] 最长回文子串
+ * 
+ * https://leetcode-cn.com/problems/longest-palindromic-substring/
  */
 
 // @lc code=start

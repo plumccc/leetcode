@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=28 lang=javascript
  *
  * [28] 实现 strStr()
+ * 
+ * https://leetcode-cn.com/problems/implement-strstr/
  */
 
 // @lc code=start
