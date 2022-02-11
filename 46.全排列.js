@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=46 lang=javascript
  *
  * [46] 全排列
+ * 
+ * https://leetcode-cn.com/problems/permutations/
  */
 
 // @lc code=start
@@ -10,10 +12,10 @@
  * @return {number[][]}
  */
 var permute = function (nums) {
-  let numArr = []
+  let res = []
   const find = (arr = []) => {
     if (arr.length == nums.length) {
-      numArr.push(arr)
+      res.push(arr)
       return
     }
 
@@ -23,7 +25,7 @@ var permute = function (nums) {
     }
   }
   find()
-  return numArr
+  return res
 };
 // @lc code=end
 
