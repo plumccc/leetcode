@@ -14,9 +14,8 @@
 var distributeCandies = function (candyType) {
   const noRepeat = [...new Set(candyType)],
     n = candyType.length / 2,
-    noRepeatLen = noRepeat.length;
-  console.log(noRepeat, n, noRepeatLen)
-  return noRepeatLen > n ? n : noRepeatLen
+    len = noRepeat.length;
+  return len > n ? n : len
 };
 // @lc code=end
 
