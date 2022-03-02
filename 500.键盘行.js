@@ -17,7 +17,7 @@ var findWords = function (words) {
     const lowerStr = str.toLowerCase()
     for (let i = 0; i < keyWord.length; i++) {
       if (keyWord[i].includes(lowerStr[0])) {
-        return [].every.call(lowerStr, el => keyWord[i].includes(el))
+        return [].every.bind(lowerStr)(el => keyWord[i].includes(el))
       } else {
         continue;
       }
