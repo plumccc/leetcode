@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=29 lang=javascript
  *
  * [29] 两数相除
+ * 
+ * https://leetcode-cn.com/problems/divide-two-integers/
  */
 
 // @lc code=start

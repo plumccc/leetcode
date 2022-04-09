@@ -2,6 +2,8 @@
  * @lc app=leetcode.cn id=9 lang=javascript
  *
  * [9] 回文数
+ * 
+ * https://leetcode-cn.com/problems/palindrome-number/
  */
 
 // @lc code=start
