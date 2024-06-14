@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/description/
  */
 
+// @lc code=start
 /**
  * @param {string} s
  * @return {number}
@@ -24,3 +25,4 @@ var minLength = function (s) {
 
   return queue.length;
 };
+// @lc code=end

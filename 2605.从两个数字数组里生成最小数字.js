@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/description
  */
+
+// @lc code=start
 /**
  * @param {number[]} nums1
  * @param {number[]} nums2
@@ -31,3 +33,4 @@ var composeNum = function (num1, num2) {
     return +`${num1}${num2}`;
   }
 }
+// @lc code=end

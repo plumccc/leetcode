@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/memoize-ii/description/
  */
+
+// @lc code=start
 /**
  * @param {Function} fn
  * @return {Function}
@@ -43,3 +45,4 @@ function memoize(fn) {
  * memoizedFn(2, 3) // 5
  * console.log(callCount) // 1 
  */
+// @lc code=end

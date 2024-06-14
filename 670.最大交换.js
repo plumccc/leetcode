@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/maximum-swap/description/
  */
+
+// @lc code=start
 /**
  * @param {number} num
  * @return {number}
@@ -32,4 +34,4 @@ var maximumSwap = function (num) {
 
   return num;
 };
-
+// @lc code=end

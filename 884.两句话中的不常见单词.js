@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/uncommon-words-from-two-sentences/description/
  */
+
+// @lc code=start
 /**
  * @param {string} s1
  * @param {string} s2
@@ -33,3 +35,4 @@ var uncommonFromSentences = function (s1, s2) {
 
   return res;
 };
+// @lc code=end

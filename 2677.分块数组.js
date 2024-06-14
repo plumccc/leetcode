@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/chunk-array/description/
  */
 
+// @lc code=start
 /**
  * @param {Array} arr
  * @param {number} size
@@ -21,3 +22,4 @@ var chunk = function (arr, size) {
     return prev;
   }, [])
 };
+// @lc code=end

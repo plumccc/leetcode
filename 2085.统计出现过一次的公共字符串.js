@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/count-common-words-with-one-occurrence/description
  */
 
+// @lc code=start
 /**
  * @param {string[]} words1
  * @param {string[]} words2
@@ -32,3 +33,4 @@ var handleWordsMap = function (words) {
   }
   return map;
 };
+// @lc code=end

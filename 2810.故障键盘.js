@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/faulty-keyboard/
  */
 
+// @lc code=start
 /**
  * @param {string} s
  * @return {string}
@@ -23,3 +24,4 @@ var finalString = function (s) {
 
   return res.join('');
 };
+// @lc code=end

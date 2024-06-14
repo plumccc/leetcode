@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/html-entity-parser/description/
  */
+
+// @lc code=start
 /**
  * @param {string} text
  * @return {string}
@@ -18,4 +20,4 @@ var entityParser = function (text) {
     .replace(/&frasl;/g, '/')
     .replace(/&amp;/g, '&');
 };
-
+// @lc code=end

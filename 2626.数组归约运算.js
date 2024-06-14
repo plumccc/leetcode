@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/array-reduce-transformation/description/
  */
 
+// @lc code=start
 /**
  * @param {number[]} nums
  * @param {Function} fn
@@ -19,3 +20,4 @@ var reduce = function (nums, fn, init) {
   }
   return res;
 };
+// @lc code=end

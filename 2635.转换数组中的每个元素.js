@@ -18,3 +18,4 @@ var map = function (arr, fn) {
       return prev;
   }, []);
 };
+// @lc code=end

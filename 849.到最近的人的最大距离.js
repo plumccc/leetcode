@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/maximize-distance-to-closest-person/description/
  */
+
+// @lc code=start
 /**
  * @param {number[]} seats
  * @return {number}
@@ -27,4 +29,4 @@ var maxDistToClosest = function (seats) {
 
   return res;
 };
-
+// @lc code=end

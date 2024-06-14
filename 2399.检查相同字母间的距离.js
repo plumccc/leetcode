@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/check-distances-between-same-letters/description/
  */
 
+// @lc code=start
 /**
  * @param {string} s
  * @param {number[]} distance
@@ -30,3 +31,4 @@ var checkDistances = function (s, distance) {
 
   return true;
 };
+// @lc code=end

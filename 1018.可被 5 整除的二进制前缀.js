@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/binary-prefix-divisible-by-5/description/
  */
 
+// @lc code=start
 /**
  * @param {number[]} nums
  * @return {boolean[]}
@@ -20,3 +21,4 @@ var prefixesDivBy5 = function (nums) {
   }
   return ans
 };
+// @lc code=end

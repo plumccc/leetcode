@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/counter-ii/description/
  */
 
+// @lc code=start
 /**
  * @param {integer} init
  * @return { increment: Function, decrement: Function, reset: Function }
@@ -35,3 +36,4 @@ var createCounter = function (init) {
  * counter.reset(); // 5
  * counter.decrement(); // 4
  */
+// @lc code=end

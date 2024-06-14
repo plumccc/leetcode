@@ -2,14 +2,14 @@
  * @lc app=leetcode.cn id=118 lang=javascript
  *
  * [118] 杨辉三角
+ * 
+ *  https://leetcode-cn.com/problems/pascals-triangle/
  */
 
 // @lc code=start
 /**
  * @param {number} numRows
  * @return {number[][]}
- * 
- * https://leetcode-cn.com/problems/pascals-triangle/
  */
 var generate = function (numRows) {
   // const res = []

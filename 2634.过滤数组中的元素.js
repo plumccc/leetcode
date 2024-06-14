@@ -17,3 +17,4 @@ var filter = function (arr, fn) {
       return fn(cur, index) ? [...prev, cur] : prev;
   }, []);
 };
+// @lc code=end

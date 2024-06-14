@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/return-length-of-arguments-passed/description/
  */
 
+// @lc code=start
 /**
  * @param {...(null|boolean|number|string|Array|Object)} args
  * @return {number}
@@ -17,3 +18,4 @@ var argumentsLength = function (...args) {
 /**
  * argumentsLength(1, 2, 3); // 3
  */
+// @lc code=end

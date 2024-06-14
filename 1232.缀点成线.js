@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/check-if-it-is-a-straight-line/description/
  */
+
+// @lc code=start
 /**
  * @param {number[][]} coordinates
  * @return {boolean}
@@ -40,3 +42,4 @@ var checkStraightLine = function (coordinates) {
 
   return true;
 };
+// @lc code=end

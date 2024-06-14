@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/snail-traversal/
  */
+
 // @lc code=start
 /**
  * @param {number} rowsCount
@@ -47,3 +48,4 @@ Array.prototype.snail = function (rowsCount, colsCount) {
 * const arr = [1,2,3,4];
 * arr.snail(1,4); // [[1,2,3,4]]
 */
+// @lc code=end

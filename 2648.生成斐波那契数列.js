@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/generate-fibonacci-sequence/description/
  */
 
+// @lc code=start
 /**
  * @return {Generator<number>}
  */
@@ -25,3 +26,4 @@ var fibGenerator = function* () {
  * gen.next().value; // 0
  * gen.next().value; // 1
  */
+// @lc code=end

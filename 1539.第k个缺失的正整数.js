@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/kth-missing-positive-number/description/
  */
 
+// @lc code=start
 /**
  * @param {number[]} arr
  * @param {number} k
@@ -21,3 +22,4 @@ var findKthPositive = function (arr, k) {
     }
   }
 };
+// @lc code=end

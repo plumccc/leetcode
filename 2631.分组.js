@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/group-by/description/
  */
+
 // @lc code=start
 /**
  * @param {Function} fn
@@ -25,3 +26,4 @@ Array.prototype.groupBy = function (fn) {
 /**
  * [1,2,3].groupBy(String) // {"1":[1],"2":[2],"3":[3]}
  */
+// @lc code=end

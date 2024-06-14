@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/check-if-array-is-good/description/
  */
 
+// @lc code=start
 /**
  * @param {number[]} nums
  * @return {boolean}
@@ -25,3 +26,4 @@ var isGood = function (nums) {
 
   return true;
 };
+// @lc code=end

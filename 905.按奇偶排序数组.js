@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/sort-array-by-parity/
  */
 
+// @lc code=start
 /**
  * @param {number[]} nums
  * @return {number[]}
@@ -23,4 +24,4 @@ var sortArrayByParity = function (nums) {
 
   return res;
 };
-
+// @lc code=end

@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/description/
  */
 
+// @lc code=start
 /**
  * @param {string} s
  * @return {string}
@@ -27,3 +28,4 @@ var modifyString = function (s) {
   }
   return _s.join("");
 };
+// @lc code=end

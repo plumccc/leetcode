@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/flatten-deeply-nested-array/
  */
+
 // @lc code=start
 /**
  * @param {any[]} arr
@@ -19,3 +20,4 @@ var flat = function (arr, n) {
     return prev;
   }, []);
 };
+// @lc code=end

@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/counter/
  */
+
 // @lc code=start
 /**
  * @param {number} n
@@ -22,3 +23,4 @@ var createCounter = function (n) {
 * counter() // 11
 * counter() // 12
 */
+// @lc code=end

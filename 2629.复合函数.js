@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/function-composition/description/
  */
+
 // @lc code=start
 /**
  * @param {Function[]} functions
@@ -27,3 +28,4 @@ var compose = function (functions) {
  * const fn = compose([x => x + 1, x => 2 * x])
  * fn(4) // 9
  */
+// @lc code=end

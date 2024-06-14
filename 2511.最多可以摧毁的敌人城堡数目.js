@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/
  */
+
 // @lc code=start
 /**
  * @param {number[]} forts
@@ -33,3 +34,4 @@ var captureForts = function (forts) {
 
   return max;
 };
+// @lc code=end

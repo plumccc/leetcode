@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/
  */
+
 // @lc code=start
 /**
  * @param {number} total

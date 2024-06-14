@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/subarray-sum-equals-k/
  */
+
+// @lc code=start
 /**
  * @param {number[]} nums
  * @param {number} k
@@ -25,3 +27,4 @@ var subarraySum = function (nums, k) {
 
   return count;
 };
+// @lc code=end

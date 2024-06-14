@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/create-hello-world-function/description/
  */
+
 // @lc code=start
 /**
  * @return {Function}
@@ -19,3 +20,4 @@ var createHelloWorld = function () {
  * const f = createHelloWorld();
  * f(); // "Hello World"
  */
+// @lc code=end

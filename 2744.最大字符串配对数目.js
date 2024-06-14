@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/find-maximum-number-of-string-pairs/description/
  */
 
+// @lc code=start
 /**
  * @param {string[]} words
  * @return {number}
@@ -25,3 +26,4 @@ var maximumNumberOfStringPairs = function (words) {
 
   return count;
 };
+// @lc code=end

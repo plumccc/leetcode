@@ -5,6 +5,7 @@
  * 
  * https://leetcode.cn/problems/array-prototype-last/
  */
+
 // @lc code=start
 Array.prototype.last = function () {
   const arrLen = this.length;
@@ -16,3 +17,4 @@ Array.prototype.last = function () {
  * const arr = [1, 2, 3];
  * arr.last(); // 3
  */
+// @lc code=end

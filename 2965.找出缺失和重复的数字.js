@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/find-missing-and-repeated-values/description/
  */
 
+// @lc code=start
 /**
  * @param {number[][]} grid
  * @return {number[]}
@@ -33,3 +34,4 @@ var findMissingAndRepeatedValues = function (grid) {
 
   return res;
 };
+// @lc code=end

@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/nested-array-generator/description/
  */
+
+// @lc code=start
 /**
  * @param {Array} arr
  * @return {Generator}
@@ -22,3 +24,4 @@ var inorderTraversal = function* (arr) {
  * gen.next().value; // 2
  * gen.next().value; // 3
  */
+// @lc code=end

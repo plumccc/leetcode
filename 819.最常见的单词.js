@@ -32,4 +32,3 @@ var mostCommonWord = function (paragraph, banned) {
   return max;
 };
 // @lc code=end
-

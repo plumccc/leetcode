@@ -6,6 +6,7 @@
  * https://leetcode.cn/problems/longest-harmonious-subsequence/description/
  */
 
+// @lc code=start
 /**
  * @param {number[]} nums
  * @return {number}
@@ -26,4 +27,4 @@ var findLHS = function (nums) {
 
   return res;
 };
-
+// @lc code=end

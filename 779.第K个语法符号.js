@@ -5,6 +5,8 @@
  * 
  * https://leetcode.cn/problems/k-th-symbol-in-grammar/
  */
+
+// @lc code=start
 /**
  * @param {number} n
  * @param {number} k
@@ -25,3 +27,4 @@ var kthGrammar = function (n, k) {
     return last ? 0 : 1;;
   }
 };
+// @lc code=end
