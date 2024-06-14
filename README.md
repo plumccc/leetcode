@@ -1,5 +1,19 @@
 # leetcode
 
-### 文件名为题目
+## 代码风格实例
 
-### 代码有题目地址
+```
+/*
+ * @lc app=leetcode.cn id=题号 lang=javascript
+ *
+ * [题号] 题目
+ * 
+ * 题目地址
+ */
+
+// @lc code=start
+
+代码块
+
+// @lc code=end
+```
