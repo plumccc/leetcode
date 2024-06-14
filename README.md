@@ -1,7 +1,6 @@
 # leetcode
 
-### 代码风格实例
-
+***代码风格实例***
 ```
 /*
  * @lc app=leetcode.cn id=题号 lang=javascript
